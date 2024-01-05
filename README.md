@@ -32,7 +32,7 @@ A **Stripe subscription system** is integrated for streamlined billing processes
 
 ```bash
 # Clone the repository
-git clone [repository-link]
+git clone https://github.com/artificialcoder02/PragyaAI.git
 
 # Install dependencies
 npm install
