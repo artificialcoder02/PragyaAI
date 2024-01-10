@@ -1,7 +1,3 @@
-Certainly! Here's the revised `README.md` with bolded text and emojis for added emphasis and visual appeal:
-
----
-
 # PragyaAI 🌐
 
 ## Description
